@@ -1,0 +1,72 @@
+.jumbo-div {
+	margin: 50px 0;
+}
+
+.btn-container {
+	width: 50%;
+}
+
+.user {
+	margin: 5px;
+}
+
+.user-div {
+	width: 110px;
+	background: green;
+	height: 100px;
+	position: absolute;
+	right: 5px;
+	top: 40px;
+	border-radius: 4px;
+	display: none;
+}
+
+.user-div > ul > li > a {
+	color: #fff;
+	font-size: 18px;
+	padding: 5px 0 0 5px;
+}
+
+.header-easy {
+	color: green;
+	font-weight: 500;
+}
+
+.header-hard {
+	color: red;
+	font-weight: 500;
+}
+
+p {
+	font-size: 12px !important;
+	margin-bottom: 0px;
+}
+
+.choice {
+	display: inline-flex;
+}
+
+.choice > button {
+	margin: 0 6px;
+	height: 100px;
+	width: 100px;
+}
+
+.choice > button > i {
+	font-size: 70px;
+}
+
+.choice > button > h5 {
+	font-size: 18px;
+	margin-top: 25px;
+	font-weight: 700;
+	color: black;
+}
+
+.choice > h3 {
+	margin: 35px 0;
+}
+
+.game {
+	margin-top: 20px;
+}
